@@ -41,3 +41,7 @@ yarn-error.log*
 
 *.dev.yml
 
+.vercel
+.env*
+
+.migration-private/

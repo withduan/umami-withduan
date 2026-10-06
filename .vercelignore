@@ -1,0 +1,5 @@
+.migration-private/
+.env*
+.git/
+node_modules/
+.next/
